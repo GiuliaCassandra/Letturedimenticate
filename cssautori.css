@@ -1,0 +1,49 @@
+#container1 {
+    width: 1200px;
+  padding-left: 80px;
+}
+
+
+#sfondoautori
+{
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-position: left;
+ }
+
+
+p {
+	text-align: justify;
+	font-family: Garamond, serif;
+}
+
+#citazione {
+ font-size: 14px;
+ margin-left: 30px;
+ }
+
+
+#tiltpic
+ {
+       -webkit-transition: all 1s ease;
+       -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+       -ms-transition: all 1s ease;
+       transition: all 1s ease;
+ }
+ #tiltpic:hover {
+       border: 30px solid #FFFFFF;
+       border-radius: 50%;
+ } 
+
+ .modal-xl{
+ 	max-width: 98%;
+ 	max-height: 98%;
+ 	 } 
+
+#nota{
+ font-size: 14px;
+ }
+
+

@@ -1,0 +1,42 @@
+#backgroundbody
+{
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ }
+
+
+#containercards
+{   width: 1200px;
+  padding: 50px;
+}
+
+
+p, h3, h4, h1 {
+	text-align: justify;
+	font-family: Garamond, serif;
+}
+
+ #containerparagrafo, #rigaparagrafo, #lead, #paragrafo, #colonna12 {
+ background-color: #F5F5F5
+ }
+
+ #colonna12
+ {width: 1600px;
+  padding: 50px;
+}
+
+
+
+
+
+
+
+#titolo {
+  font-style: italic;
+}
+
+
+
+
+
