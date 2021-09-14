@@ -1,28 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-	<!-- Lara l'avventuriera-->
-	<library xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="OPAC-SBN">
-		<item n="80809" xml:id="BNI-80809">
-			<dc:identifier><a href="https://opac.sbn.it"></dc:identifier>
-			<dc:title>Lara l'avventuriera</dc:title>
-			<dc:creator>Invernizio, Carolina</dc:creator>
-			<dc:date type="creation">1978</dc:date>
-			<dc:subject> 853.9 (18.) NARRATIVA ITALIANA, 1900-</dc:subject>
-			<dc:description>
-				<img source="opere\Invernizio\20210708_105603.jpg">
-				<q>"Si potrebbe definire quest’opera, edita per la prima volta nel <date>1910<date>, romanzo delle finzioni per eccellenza:Lara, la bellissima trovatella arrivata come dal nulla nel triste castello residenza di Agnese Maccard, viene fatta passare per la nipote del giardiniere Domenico (prima finzione) e, una volta cresciuta, si fingerà (finzione principale) buona, dolce, casta e pura per riuscire a soddisfare (per mezzo della seduzione e persino attraverso il delitto) la sua sete di ricchezze e di onori. Questa, per sommi capi, l’ossatura del romanzo: ma a questa trama (in ogni senso) se ne aggiungono numerose altre che la affiancano o vi si sovrappongono, sommando finzione a finzione, in un turbinio di vicende drammatiche e sinistre. Ma tanta "catastrofe" trova la propria "catarsi" finale e, come sempre, tutto si risolve per il meglio"</q>.
-			</dc:description>
-			<dc:publisher>Salani</dc:publisher>
-			<dc:type>Libro</dc:type>
-			<dc:type>Romanzo</dc:type>
-			<dc:type>Narrativa</dc:type>
-			<dc:format>Fisico</dc:format>
-			<dc:format>253 p. 19cm</dc:format>
-			<dc:identifier>IT\ICCU\SBL\0329991</dc:identifier>
-			<dc:language>It</dc:language>
-			<dc:coverage>Trento</dc:coverage>
-			<dc:rights>https://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
 
-		</item>
+
+	<?xml version="1.0" encoding="UTF-8"?>
+	<library xmlns:dc="http://purl.org/dc/elements/1.1" xml:id="SDS-BR"> <!--Storie di Storie- Biblioteca Rovereto-->
+		<volume xml:id="SDS-BR-01">
+			<dc:title>Lara l'avventuriera</dc:title>
+			<dc:creator>Invernizio, Carolina (1851 - 1916)</dc:creator>
+			<dc:subject>narrativa</dc:subject>
+			<dc:subject>Romanzo</dc:subject>
+			<dc:description>Lara,  la bella trovatella arrivata come dal nulla nel triste castello residenza di Agnese Maccard, viene fatta passare per la nipote del giardiniere Domenico e, una volta cresciuta, si fingerà buona, dolce, casta e pura per riuscire a soddisfare (per mezzo della seduzione e persino attraverso il delitto) la sua sete di ricchezze e di onori</dc:description>
+			<dc:publisher>Salani</dc:publisher>
+			<dc:date>1978</dc:date>
+			<dc:type>book</dc:type>
+			<dc:format>fisico</dc:format>
+			<dc:format>253 p., 1 c. di tav. : ill. ; 19 cm.</dc:format>
+			<dc:identifier>Opac Sbn</dc:identifier>
+			<dc:language>it</dc:language>
+			<dc:coverage>Italia</dc:coverage>
+			<dc:rights>https://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
+		</volume>
 	</library>
 		
 	
