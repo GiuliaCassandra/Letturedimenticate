@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<library xmlns:dc="http://purl.org/dc/elements/1.1" xml:id="SDS"> <!--Orfeo Euridice 900 - Catalogo-->
+		<volume xml:id="SDS-O-03">
+			<dc:title>Lara l'avventuriera</dc:title>
+			<dc:creator>Invernizio, Carolina (1851-1916)</dc:creator>
+			<dc:subject>narrativa</dc:subject>
+			<dc:subject>romanzo</dc:subject>
+			<dc:description>Lara è una trovatella pronta a tutto per ottenere ciò che vuole</dc:description>
+			<dc:publisher>Salani</dc:publisher>
+			<dc:contributor>None</dc:contributor>
+			<dc:date>1978</dc:date>
+			<dc:type>book</dc:type>
+			<dc:format>fisico</dc:format>
+			<dc:format>253 p., [1] c. di tav. : ill. ; 19 cm</dc:format>
+			<dc:identifier>IT\ICCU\UM1\0075227</dc:identifier>
+			<dc:language>it</dc:language>
+			<dc:coverage>Italia</dc:coverage>
+			<dc:rights>https://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
+		</volume>
+	</library>
