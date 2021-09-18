@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Angolo romito</title>
+				<author>Anna Vertua Gentile</author>
+				<respStmt>
+					<name>Cristina Rosanda</name>
+					<resp>Umberto Galerati</resp>
+				</respStmt>
+				<respStmt>
+					<name>Gabriella Dodero</name>
+					<resp>Revisione</resp>
+				</respStmt>
+				<respStmt>
+					<name>Umberto Galerati</name>
+					<resp>Impaginazione</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Catia Righi</publisher>
+				<distributor>www.liberliber.it</distributor>
+				<availability>
+					<licence>https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it</licence>
+				</availability>
+				<date>2021/09/09</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<author>Vertua Gentile, Anna</author>
+					<publisher>Madella</publisher>
+					<title>Angolo romito</title>
+					<date>1912</date>
+					<pubPlace>Sesto S. Giovanni</pubPlace>
+					<edition>1. ed</edition>
+					<idno>IT\ICCU\CUB\0661642</idno>
+					<extent>268 p.</extent>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="incipit">
+			<head>Angolo Romito</head>
+			<pb n="7"/>
+					<p>Sbarcando sulla riva deserta del villaggio, raggruppato alla scogliera, Bianca Lionello ebbe a rimanere incresciosamente sorpresa. Nessuno era lì ad incontrarla; manco un contadinello, che la guidasse alla cartiera. E pure ella aveva annunciato chiaramente e precisamente il giorno e l’ora del suo arrivo.
+						Che non avessero ricevuto la sua lettera? Che fosse un segno di scortesia?… Un volere, subito, trattarla da intrusa?… O pure, si trattava forse d’un semplice ritardo?… Questo doveva essere; ell’era una stupida a stillarsi il cervello, ad amareggiarsi per un niente. Poteva aspettare; qualcuno sarebbe venuto, che diamine!
+						Il barcaiuolo che l’aveva tragittata dal battello a vapore, a riva, tarchiato, abbronzito, brusco, che non invitava punto al conversare, assicurò la barca, fece di cappello e si perdette per uno dei viottoli tagliati nel sasso, che guidavano al villaggio.</p>
+					
+				</div>
+			</body>
+		</text>
+	</TEI>
