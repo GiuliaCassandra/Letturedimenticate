@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<library xmlns:dc="http://purl.org/dc/elements/1.1" xml:id="SDS-BR"> <!--Orfeo Euridice 900 - Catalogo-->
+<library xmlns:dc="http://purl.org/dc/elements/1.1" xml:id="SDS-BR"> 
 		<volume xml:id="SDS-BR">
 			<dc:title>Lara l'avventuriera</dc:title>
 			<dc:creator>Carolina, Invernizio (1851-1916)</dc:creator>
